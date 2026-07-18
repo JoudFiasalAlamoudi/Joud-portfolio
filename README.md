@@ -1,7 +1,7 @@
 # Joud Portfolio
-# Live Website
+#🔗 Live Website
 
-🔗 [https://joudfiasalalamoudi.github.io/Joud-portfolio/](https://joudfiasalalamoudi.github.io/Joud-portfolio/)
+ [https://joudfiasalalamoudi.github.io/Joud-portfolio/](https://joudfiasalalamoudi.github.io/Joud-portfolio/)
 
 
 
@@ -22,5 +22,5 @@ Personal Portfolio Website built using HTML and CSS.
 ## Technologies
 - HTML5
 - CSS3
-
+-GitHub Pages
 
