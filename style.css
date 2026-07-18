@@ -1,0 +1,128 @@
+
+/* ===========================
+   GENERAL
+=========================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial,sans-serif;
+    background:linear-gradient(180deg,#eef3ff,#dce7ff);
+    color:#333;
+}
+
+/* NAVBAR */
+
+nav{
+    background:#2b3f92;
+    padding:18px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 20px;
+    font-size:18px;
+    font-weight:bold;
+}
+
+/* HERO */
+
+.hero{
+    width:90%;
+    margin:40px auto;
+    padding:60px;
+
+    /* ← لون الكرت */
+    background:#d8e3ff;
+
+    border-radius:25px;
+    box-shadow:0 12px 30px rgba(70,90,200,.15);
+}
+
+.hero h1{
+    color:#4d69dc;
+    font-size:58px;
+}
+
+.hero h2{
+    color:#223a74;
+}
+
+.hero p{
+    width:70%;
+    margin:auto;
+    line-height:1.8;
+}
+
+.hello{
+    color:#6678ff;
+    font-weight:bold;
+    margin-bottom:15px;
+}
+
+.buttons{
+    margin-top:30px;
+}
+
+.btn{
+    display:inline-block;
+    background:#5b73e8;
+    color:white;
+    padding:14px 28px;
+    border-radius:12px;
+    text-decoration:none;
+    margin:8px;
+}
+
+.btn-outline{
+    background:#cfdcff;
+    color:#3349bf;
+    border:2px solid #5b73e8;
+}
+
+/* SECTIONS */
+
+section:not(.hero){
+    width:90%;
+    margin:35px auto;
+    padding:40px;
+
+    /* ← لون الكروت */
+    background:#d8e3ff;
+
+    border-radius:25px;
+    box-shadow:0 10px 25px rgba(70,90,200,.12);
+}
+
+h2{
+    color:#223a74;
+    margin-bottom:20px;
+}
+
+p{
+    line-height:1.8;
+}
+
+hr{
+    margin:30px 0;
+}
+
+ul{
+    list-style:none;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:15px;
+}
+
+li{
+    background:#edf2ff;
+    padding:15px;
+    border-radius:12px;
+}
