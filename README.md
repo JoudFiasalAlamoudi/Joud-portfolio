@@ -19,5 +19,4 @@ Personal Portfolio Website built using HTML and CSS.
 - HTML5
 - CSS3
 
-## Author
-Joud Faisal Alamoudi
+
