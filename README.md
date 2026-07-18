@@ -6,7 +6,7 @@
 
 
 
----
+
 
 Personal Portfolio Website built using HTML and CSS.
 
@@ -22,5 +22,5 @@ Personal Portfolio Website built using HTML and CSS.
 ## Technologies
 - HTML5
 - CSS3
--GitHub Pages
+- GitHub Pages
 
