@@ -1,8 +1,7 @@
 
 # Joud Portfolio
-file:///C:/Users/joudf/OneDrive/%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D8%A7%D8%AA/JOUD%20PORTFOLIO/index.html
-## 🌐 Live Website
-https://YOUR-LINK
+
+🔗 [Visit Website](https://joudfaisalalamoudi.github.io/Joud-portfolio/)
 
 ## 📖 About
 This is my personal portfolio website created using HTML and CSS. It presents my academic background, technical skills, certifications, activities, career goals, and contact information.
