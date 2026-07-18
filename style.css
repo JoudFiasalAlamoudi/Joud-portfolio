@@ -1,7 +1,5 @@
 
-/* ===========================
-   GENERAL
-=========================== */
+
 
 *{
     margin:0;
@@ -15,7 +13,6 @@ body{
     color:#333;
 }
 
-/* NAVBAR */
 
 nav{
     background:#2b3f92;
@@ -31,14 +28,12 @@ nav a{
     font-weight:bold;
 }
 
-/* HERO */
 
 .hero{
     width:90%;
     margin:40px auto;
     padding:60px;
 
-    /* ← لون الكرت */
     background:#d8e3ff;
 
     border-radius:25px;
@@ -86,14 +81,12 @@ nav a{
     border:2px solid #5b73e8;
 }
 
-/* SECTIONS */
 
 section:not(.hero){
     width:90%;
     margin:35px auto;
     padding:40px;
 
-    /* ← لون الكروت */
     background:#d8e3ff;
 
     border-radius:25px;
