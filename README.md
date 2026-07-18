@@ -1,10 +1,10 @@
 # Joud Portfolio
 # Live Website
 
-[https://joudfiasalalamoudi.github.io/Joud-portfolio/](https://joudfiasalalamoudi.github.io/Joud-portfolio/)
+🔗 [https://joudfiasalalamoudi.github.io/Joud-portfolio/](https://joudfiasalalamoudi.github.io/Joud-portfolio/)
 
 
-🔗 [Visit Website](https://joudfaisalalamoudi.github.io/Joud-portfolio/)
+
 
 ---
 
